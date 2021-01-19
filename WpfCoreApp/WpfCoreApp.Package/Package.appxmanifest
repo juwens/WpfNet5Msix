@@ -9,7 +9,7 @@
   <Identity
     Name="a938e3f9-c068-46aa-b64d-651b59ee8f01"
     Publisher="CN=jjaehrig"
-    Version="1.0.1.0" />
+    Version="1.0.2.0" />
 
   <Properties>
     <DisplayName>WpfCoreApp.Package</DisplayName>
